@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST='{"pages":{"/layout":["static/media/a34f9d1faa5f3315-s.p.woff2"]},"app":{},"appUsingSizeAdjust":false,"pagesUsingSizeAdjust":true}';
+self.__NEXT_FONT_MANIFEST='{"pages":{},"app":{"/Users/emilianocaceres/Desktop/guvaldes/web-calificador-alpha/src/app/pages/layout":["static/media/a34f9d1faa5f3315-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}';
