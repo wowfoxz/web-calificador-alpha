@@ -1,0 +1,167 @@
+{
+    "empleados": [
+      {
+        "nombre": "Guillermo Valdés",
+        "asistencia": 160,
+        "antiguedad": 7,
+        "nivelEstudio": 4,
+        "itemsProactividad": ["Horas Extras Voluntarias", "Manejo de Crisis"],
+        "tareas": [
+          {"cantidad": 2, "nivel": "bajo"},
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ]
+      },
+      {
+        "nombre": "Franco Díaz",
+        "asistencia": 150,
+        "antiguedad": 3,
+        "nivelEstudio": 4,
+        "itemsProactividad": ["Desarrollo de Módulo Urgente", "Participación en Proyectos Clave"],
+        "tareas": [
+          {"cantidad": 3, "nivel": "bajo"}
+        ],
+        "modulos": [
+          {"cantidad": 2, "nivel": "medio"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ]
+      },
+      {
+        "nombre": "Ana López",
+        "asistencia": 140,
+        "antiguedad": 6,
+        "nivelEstudio": 4,
+        "itemsProactividad": ["Asistencia a Reuniones Estratégicas", "Innovación y Propuestas"],
+        "tareas": [
+          {"cantidad": 1, "nivel": "alto"}
+        ],
+        "modulos": [
+          {"cantidad": 2, "nivel": "medio"}
+        ],
+        "proyectos": [
+          {"cantidad": 2, "nivel": "alto"}
+        ]
+      },
+      {
+        "nombre": "Laura Gómez",
+        "asistencia": 160,
+        "antiguedad": 4,
+        "nivelEstudio": 2,
+        "itemsProactividad": ["Mentoría y Apoyo a Compañeros", "Capacitación de Emergencia"],
+        "tareas": [
+          {"cantidad": 1, "nivel": "bajo"},
+          {"cantidad": 2, "nivel": "medio"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "bajo"}
+        ]
+      },
+      {
+        "nombre": "Carlos Pérez",
+        "asistencia": 155,
+        "antiguedad": 2,
+        "nivelEstudio": 3,
+        "itemsProactividad": ["Documentación y Mejora de Procesos", "Innovación y Propuestas"],
+        "tareas": [
+          {"cantidad": 3, "nivel": "alto"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ]
+      },
+      {
+        "nombre": "María Torres",
+        "asistencia": 145,
+        "antiguedad": 5,
+        "nivelEstudio": 5,
+        "itemsProactividad": ["Participación en Proyectos Clave", "Manejo de Crisis"],
+        "tareas": [
+          {"cantidad": 2, "nivel": "bajo"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ]
+      },
+      {
+        "nombre": "Juan Rodríguez",
+        "asistencia": 130,
+        "antiguedad": 1,
+        "nivelEstudio": 3,
+        "itemsProactividad": ["Horas Extras Voluntarias", "Capacitación de Emergencia"],
+        "tareas": [
+          {"cantidad": 1, "nivel": "bajo"},
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ]
+      },
+      {
+        "nombre": "CHOMI NUÑEZ",
+        "asistencia": 160,
+        "antiguedad": 7,
+        "nivelEstudio": 2,
+        "itemsProactividad": ["Documentación y Mejora de Procesos", "Mentoría y Apoyo a Compañeros"],
+        "tareas": [
+          {"cantidad": 2, "nivel": "bajo"}
+        ],
+        "modulos": [
+          {"cantidad": 2, "nivel": "alto"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ]
+      },
+      {
+        "nombre": "Tobias zacarias",
+        "asistencia": 150,
+        "antiguedad": 7,
+        "nivelEstudio": 3,
+        "itemsProactividad": ["Asistencia a Reuniones Estratégicas", "Innovación y Propuestas"],
+        "tareas": [
+          {"cantidad": 1, "nivel": "medio"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "bajo"}
+        ],
+        "proyectos": [
+          {"cantidad": 1, "nivel": "medio"}
+        ]
+      },
+      {
+        "nombre": "Leo paredes",
+        "asistencia": 160,
+        "antiguedad": 1,
+        "nivelEstudio": 4,
+        "itemsProactividad": ["Desarrollo de Módulo Urgente", "Participación en Proyectos Clave"],
+        "tareas": [
+          {"cantidad": 2, "nivel": "alto"}
+        ],
+        "modulos": [
+          {"cantidad": 1, "nivel": "alto"}
+        ],
+        "proyectos": [
+          {"cantidad": 2, "nivel": "medio"}
+        ]
+      }
+    ]
+  }
